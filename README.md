@@ -16,3 +16,4 @@ Test penggunaan git
 - membuka project yang sudah di clone dari command line
 - mengubah file
 - mengirim file
+- mengubah file & commit dari website
