@@ -21,5 +21,5 @@ Test penggunaan git
 ## Menggunakan GIT dengan team
 - melihat issue tracker pada github
 - membuat branch tersendiri untuk mengejarkan issue
-- meng-commit & mereview code yang berubah
+- meng-commit & mereview code yang berubah, commit message diawali dengan nama branch
 - mem-push code ke github
