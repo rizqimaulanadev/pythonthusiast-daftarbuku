@@ -24,3 +24,8 @@ Test penggunaan git
 - membuat branch tersendiri untuk mengejarkan issue
 - meng-commit & mereview code yang berubah, commit message diawali dengan nama branch
 - mem-push code ke github
+
+## Kesimpulan 
+- Mudah memanage code
+- Data lebih aman karena juga tersimpan dalam repository
+
