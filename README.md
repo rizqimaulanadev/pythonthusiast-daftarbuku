@@ -17,3 +17,9 @@ Test penggunaan git
 - mengubah file
 - mengirim file
 - mengubah file & commit dari website
+
+## Menggunakan GIT dengan team
+- melihat issue tracker pada github
+- membuat branch tersendiri untuk mengejarkan issue
+- meng-commit & mereview code yang berubah
+- mem-push code ke github
